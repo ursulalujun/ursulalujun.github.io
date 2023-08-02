@@ -25,17 +25,9 @@ titles:
   # @end locale config
 key: page-about
 ---
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-My ![Visitor Count](https://ursulalujun.github.io/about.html) visitor
-
-
 # I'm Xiaoya Lu 
 
-- 🔭 I’m currently working on **HuoLaLa**
+- 🔭 I’m currently studying at **UESTC**
 - 🌱 I’m currently learning **CV** and **AI+healthcare**
 - 👯 Currently working in **Chengdu, China**
 - 🤔 I love **Reading, photography**
@@ -43,6 +35,16 @@ My ![Visitor Count](https://ursulalujun.github.io/about.html) visitor
 - 📫 How to reach me: **2020080904026@std.uestc.edu.cn**
 - 😄 You may like [My Website](https://ursulalujun.github.io/about.html)
 - ⚡ Fun fact: **Movie**
+
+
+# Publications
+**Lu, Xiaoya**, and Hang Qiu. "Explainable prediction of daily hospitalizations for cerebrovascular disease using stacked ensemble learning." BMC Medical Informatics and Decision Making 23.1 (2023): 1-13. [DOI](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02159-7)
+
+# Experiences
+09/2020-06/2024: University of Electronic Science and Technology of China (UESTC); Computer Science and Technology in School of Computer Science and Engineering.
+
+# Honors and Awards
+National Scholarship, 2021 & 2022
 
 # About My Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ursulalujun&show_icons=true&theme=tokyonight)
