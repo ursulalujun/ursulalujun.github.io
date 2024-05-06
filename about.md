@@ -29,7 +29,7 @@ key: page-about
 # I'm Xiaoya Lu 
 
 - 🔭 I’m currently studying at **UESTC**
-- 🌱 I’m currently learning **CV** and **AI+healthcare**
+- 🌱 I’m currently learning **LLM agent** and **LLM Alignment and safety**
 - 👯 Currently working in **Chengdu, China**
 - 🤔 I love **Reading, photography**
 - 💬 Ask me about Deep Learning, Python and my projects
@@ -39,6 +39,8 @@ key: page-about
 
 
 # Publications
+Chen Z, Shi Z, **Lu X**, et al. RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents[J]. arXiv preprint arXiv:2403.19622, 2024.
+**Lu X**, Zhuo Y W, Chen H, et al. SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion[J]. IEEE Geoscience and Remote Sensing Letters, 2023. 
 **Lu, Xiaoya**, and Hang Qiu. "Explainable prediction of daily hospitalizations for cerebrovascular disease using stacked ensemble learning." BMC Medical Informatics and Decision Making 23.1 (2023): 1-13. [DOI](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02159-7)
 
 # Experiences
