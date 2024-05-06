@@ -26,6 +26,8 @@ titles:
 key: page-about
 ---
 
+# I'm Xiaoya Lu
+
 - 🔭 I’m currently studying at **UESTC**
 - 🌱 I’m currently learning **LLM agent** and **LLM Alignment and safety**
 - 👯 Currently working in **Chengdu, China**
